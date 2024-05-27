@@ -43,7 +43,7 @@
 }
 
 .square {
-  background: #fff;
+  background-color: white;
   border: 1px solid #999;
   float: left;
   font-size: 124px;
@@ -55,6 +55,7 @@
   padding: 0;
   text-align: center;
   width: 164px;
+  color: cadetblue;
 }
 
 .board-row:after {
